@@ -131,7 +131,7 @@ const migrationData = {
     teamMembers: [
       { name: "Manjusha", tasks: 14, completed: 4, pending: 10 },
       { name: "Leela", tasks: 20, completed: 8, pending: 12 },
-      { name: "Murali", tasks: 18, completed: 8, pending: 10 },
+      { name: "Murali", tasks: 18, completed: 8+6, pending: 4 },
       { name: "Kishan", tasks: 14, completed: 14, pending: 0 },
       { name: "Tarun", tasks: 39, completed: 0, pending: 39 },
       { name: "Team as they develop", tasks: 22, completed: 0, pending: 22 }
